@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurav Kumar Gupta  
 
+💻 Aspiring Software Engineer | 🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast  
 
-**gauravkumargupta2025/gauravkumargupta2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+- Languages: Python, Java, C++  
+- Web: HTML, CSS, JavaScript, React, Node.js  
+- AI/ML: TensorFlow, Scikit-learn (Learning)  
+- Database: MySQL, MongoDB  
 
-Here are some ideas to get you started:
+## 🌱 Current Learning
+- Full-Stack Development  
+- AI/ML Basics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📌 Featured Projects
+- [Project 1](link) – Short description  
+- [Project 2](link) – Short description  
+
+## 📫 Connect with me
+- LinkedIn: [www.linkedin.com/in/gaurav-kumar-gupta-64409a328]  
+- Email: gauravkumargupta1517@gmail.com
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravkumar2004&show_icons=true&theme=tokyonight)
 
