@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 👋 Hi, I'm Gaurav Kumar Gupta<br><br>💻 **Software Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 
 
