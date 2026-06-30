@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Gaurav Kumar Gupta<br><br>💻 **Software Engineering Student | Full-Stack Developer | AI/ML Enthusiast**<br><br>I'm passionate about building scalable, high-performance web applications and exploring Artificial Intelligence to solve real-world problems. I enjoy learning modern technologies, creating impactful projects, and continuously improving my problem-solving and software development skills.<br><br>🌱 **Currently Learning:** Full-Stack Development, Artificial Intelligence & Machine Learning, WordPress Development, and Cloud Technologies.<br><br>## 🛠️ Tech Stack<br><br>### 💻 Frontend<br><br>* HTML5<br>* CSS3<br>* JavaScript (ES6+)<br>* React.js<br>* Next.js<br>* Tailwind CSS<br>* Bootstrap<br><br>### ⚙️ Backend<br><br>* Node.js<br>* Express.js<br>* REST APIs<br><br>### 🗄️ Database<br><br>* MongoDB<br>* MySQL<br><br>### ☁️ Cloud & DevOps<br><br>* Git<br>* GitHub<br>* Docker<br><br>### 💡 Programming Languages<br><br>* C<br>* C++<br>* Python<br><br><br>### 🛠️ Tools<br><br>* Visual Studio Code (VS Code)<br><br>* GitHub Desktop<br><br><br>
+# 👋 Hi, I'm Gaurav Kumar Gupta<br><br>💻 **Software Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 
 
 ## 🌐 Socials:
