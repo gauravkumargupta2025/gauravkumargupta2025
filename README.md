@@ -10,21 +10,13 @@
 <!-- ======================= HEADER ======================= -->
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=GAURAV%20KUMAR%20GUPTA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20C%2B%2B%20%26%20DSA%20Learner&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;B.Tech+CSE+%7C+3rd+Year+Student+%F0%9F%8E%93;Building+Modern+Web+Experiences+%F0%9F%92%BB;Learning+C%2B%2B+%26+Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Future+Full-Stack+%2B+AI%2FML+Engineer+%F0%9F%9A%80" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=gauravkumargupta2025&label=Profile%20Views&color=7F5AF0&style=for-the-badge" />
-
-</div>
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
 </div>
 
