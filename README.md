@@ -3,8 +3,6 @@
 
 <img src="https://kommodo.ai/i/JwHtntE7YapdFRNqI8Ka" width="200" alt="Gaurav Kumar Gupta"/>
 
-<h3>Turning ideas into code, one commit at a time ✨</h3>
-
 </div>
 
 <!-- ======================= HEADER ======================= -->
@@ -18,17 +16,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=gauravkumargupta2025&label=Profile%20Views&color=7F5AF0&style=for-the-badge" />
 
-</div>
-
-<p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#️-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-analytics">Stats</a> •
-  <a href="#-lets-connect">Contact</a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=3&width=100%25" width="100%"/>
+
+
 
 ## 👨‍💻 About Me
 
