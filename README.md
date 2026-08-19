@@ -163,15 +163,11 @@ A frontend-focused clone inspired by the Zerodha trading platform, built to prac
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gauravkumargupta2025/gauravkumargupta2025/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 
 </div>
 
-> ⚙️ **Setup note:** this animates automatically once you add the `platane/snk` GitHub Action to this repo (generates a snake eating your contribution graph). One-time setup — search "github contribution snake action" for the workflow file.
+
 
 ---
 
