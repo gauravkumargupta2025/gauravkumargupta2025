@@ -1,7 +1,7 @@
 <!-- ======================= TOP IMAGE (ANIMATED) ======================= -->
 <div align="center">
 
-<img src="./avatar.svg" width="200" alt="Gaurav Kumar Gupta"/>
+<img src="https://kommodo.ai/i/JwHtntE7YapdFRNqI8Ka" width="200" alt="Gaurav Kumar Gupta"/>
 
 <h3>Turning ideas into code, one commit at a time ✨</h3>
 
