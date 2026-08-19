@@ -1,11 +1,18 @@
-<!-- ======================= TOP IMAGE ======================= -->
+<!-- ======================= TOP IMAGE (ANIMATED) ======================= -->
 <div align="center">
 
+<img src="./avatar.svg" width="200" alt="Gaurav Kumar Gupta"/>
+
+<h3>Turning ideas into code, one commit at a time ✨</h3>
 
 </div>
 
+<!-- ======================= HEADER ======================= -->
 <div align="center">
 
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;B.Tech+CSE+%7C+3rd+Year+Student+%F0%9F%8E%93;Building+Modern+Web+Experiences+%F0%9F%92%BB;Learning+C%2B%2B+%26+Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Future+Full-Stack+%2B+AI%2FML+Engineer+%F0%9F%9A%80" />
 
 <br/>
 
@@ -29,7 +36,7 @@
   <a href="#-lets-connect">Contact</a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5AF0,100:2CB67D&height=3&width=100%25" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -239,11 +246,6 @@ I'm open to **internships**, **hackathons**, **open-source contributions**, and 
 
 ---
 
-## 😄 Random Dev Joke
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </div>
 
