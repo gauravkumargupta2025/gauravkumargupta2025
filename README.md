@@ -1,9 +1,4 @@
-<!-- ======================= TOP IMAGE (ANIMATED) ======================= -->
-<div align="center">
 
-<img src="https://kommodo.ai/i/JwHtntE7YapdFRNqI8Ka" width="200" alt="Gaurav Kumar Gupta"/>
-
-</div>
 
 <!-- ======================= HEADER ======================= -->
 <div align="center">
