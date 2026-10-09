@@ -235,6 +235,12 @@ Every line of code is a step closer to becoming a better developer.
 </div>
 -->
 
+
+<div align="center">
+  <img src="profile-banner.png" width="100%" alt="Gaurav Kumar Gupta - Developer Banner">
+</div>
+
+
 <div align="center">
 
 # Gaurav Kumar Gupta
@@ -304,14 +310,4 @@ Building · Learning · Shipping
 
 <div align="center">
   <i>“Keep building, keep learning, and keep shipping.”</i>
-</div>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-⭐ **Thanks for visiting my profile!**
-Made with ❤️ by Gaurav Kumar Gupta
-
 </div>
