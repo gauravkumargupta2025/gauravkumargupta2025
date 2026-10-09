@@ -1,6 +1,6 @@
 
 
-<!-- ======================= HEADER ======================= -->
+<!-- ======================= HEADER ======================= 
 <div align="center">
 
 
@@ -233,6 +233,79 @@ I'm open to **internships**, **hackathons**, **open-source contributions**, and 
 Every line of code is a step closer to becoming a better developer.
 
 </div>
+-->
+
+<div align="center">
+
+# Gaurav Kumar Gupta
+### Full-Stack Developer · AI/ML Enthusiast
+
+Building · Learning · Shipping
+
+[![GitHub](https://img.shields.io/badge/GitHub-gauravkumargupta2025-0A101F?style=for-the-badge&logo=github)](https://github.com/gauravkumargupta2025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurav-kumar-gupta-64409a328/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gaurav-kumar-portfolio-2026.netlify.app)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science student
+- 🌱 Learning Full-Stack Development, AI/ML, and Cloud Computing
+- 💻 Interested in building useful web applications and AI-powered projects
+- 🛠️ Tech stack: React, Next.js, Node.js, Express, MongoDB, and MySQL
+- 📫 Email: gauravkumargupta1517@gmail.com
+
+## 🧰 Tech Stack
+
+![C](https://img.shields.io/badge/C-0A101F?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-0A101F?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0A101F?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-0A101F?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-0A101F?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A101F?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-0A101F?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-0A101F?style=for-the-badge&logo=docker)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravkumargupta2025&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE&text_color=E6EDF3" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumargupta2025&layout=compact&theme=tokyonight&bg_color=0A101F&title_color=A78BFA&text_color=E6EDF3" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=gauravkumargupta2025&theme=tokyonight&background=0A101F&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak" />
+</div>
+
+## 🐍 Contribution Snake
+
+<!-- Once the snake workflow is configured and its output branch exists, uncomment this picture block.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravkumargupta2025/gauravkumargupta2025/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravkumargupta2025/gauravkumargupta2025/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/gauravkumargupta2025/gauravkumargupta2025/output/github-contribution-grid-snake.svg">
+</picture>
+-->
+
+## 🚀 Featured Projects
+
+- **Zerodha Clone** — A web development project inspired by a stock trading platform.
+- **AI Job Portal** — An AI-focused job portal project.
+- **New Leaf** — A learning-focused project centered on identifying learning gaps and personalized learning.
+
+---
+
+<div align="center">
+  <i>“Keep building, keep learning, and keep shipping.”</i>
+</div>
+
 
 <div align="center">
 
